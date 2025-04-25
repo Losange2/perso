@@ -1,0 +1,17 @@
+C:\Users\LECULEE\source\repos\perso\perso\bin\Debug\net8.0-windows\perso.exe
+C:\Users\LECULEE\source\repos\perso\perso\bin\Debug\net8.0-windows\perso.deps.json
+C:\Users\LECULEE\source\repos\perso\perso\bin\Debug\net8.0-windows\perso.runtimeconfig.json
+C:\Users\LECULEE\source\repos\perso\perso\bin\Debug\net8.0-windows\perso.dll
+C:\Users\LECULEE\source\repos\perso\perso\bin\Debug\net8.0-windows\perso.pdb
+C:\Users\LECULEE\source\repos\perso\perso\obj\Debug\net8.0-windows\perso.Form1.resources
+C:\Users\LECULEE\source\repos\perso\perso\obj\Debug\net8.0-windows\perso.csproj.GenerateResource.cache
+C:\Users\LECULEE\source\repos\perso\perso\obj\Debug\net8.0-windows\perso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LECULEE\source\repos\perso\perso\obj\Debug\net8.0-windows\perso.AssemblyInfoInputs.cache
+C:\Users\LECULEE\source\repos\perso\perso\obj\Debug\net8.0-windows\perso.AssemblyInfo.cs
+C:\Users\LECULEE\source\repos\perso\perso\obj\Debug\net8.0-windows\perso.csproj.CoreCompileInputs.cache
+C:\Users\LECULEE\source\repos\perso\perso\obj\Debug\net8.0-windows\perso.dll
+C:\Users\LECULEE\source\repos\perso\perso\obj\Debug\net8.0-windows\refint\perso.dll
+C:\Users\LECULEE\source\repos\perso\perso\obj\Debug\net8.0-windows\perso.pdb
+C:\Users\LECULEE\source\repos\perso\perso\obj\Debug\net8.0-windows\perso.genruntimeconfig.cache
+C:\Users\LECULEE\source\repos\perso\perso\obj\Debug\net8.0-windows\ref\perso.dll
+C:\Users\LECULEE\source\repos\perso\perso\obj\Debug\net8.0-windows\perso.Properties.Resources.resources
